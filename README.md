@@ -3,7 +3,7 @@
 Une application de messagerie privée moderne et sécurisée construite avec Next.js, TypeScript et MySQL.
 
 ## 📺 Démonstration
-https://github.com/user-attachments/assets/51adf7b2-2441-4b8a-a78e-02d2949835ae
+https://github.com/user-attachments/assets/4e472bb6-85e3-4ca9-b13b-109f3e1d10fb
 ## 🌟 Fonctionnalités
 
 ### Messagerie
