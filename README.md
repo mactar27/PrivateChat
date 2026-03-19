@@ -4,7 +4,7 @@ Une application de messagerie privée moderne et sécurisée construite avec Nex
 
 ## 📺 Démonstration
 
-![Démonstration de PrivateChat](./Test.mp4)
+<video src="./Test.mp4" controls width="100%"></video>
 
 ---
 
