@@ -4,7 +4,7 @@ Une application de messagerie privée moderne et sécurisée construite avec Nex
 
 ## 📺 Démonstration
 
-<video src="./Test.mp4" controls width="100%"></video>
+<video src="https://github.com/mactar27/PrivateChat/raw/main/Test.mp4" controls width="100%"></video>
 
 ---
 
