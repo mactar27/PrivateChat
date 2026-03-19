@@ -3,7 +3,7 @@
 Une application de messagerie privée moderne et sécurisée construite avec Next.js, TypeScript et MySQL.
 
 ## 📺 Démonstration
-https://github.com/mactar27/PrivateChat/blob/main/Test.mp4
+https://raw.githubusercontent.com/mactar27/PrivateChat/main/Test.mp4
 
 ## 🌟 Fonctionnalités
 
