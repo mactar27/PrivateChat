@@ -1,0 +1,28 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @media (prefers-color-scheme: light) {
+      .background { fill: #3B82F6; }
+      .foreground { fill: white; }
+      .accent { fill: #60A5FA; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #1E40AF; }
+      .foreground { fill: white; }
+      .accent { fill: #3B82F6; }
+    }
+  </style>
+  
+  <!-- Background circle -->
+  <circle class="background" cx="90" cy="90" r="85"/>
+  
+  <!-- Lock icon with chat bubble -->
+  <g transform="translate(90, 90)">
+    <!-- Chat bubble -->
+    <path class="foreground" d="M -35 -15 C -35 -25 -28 -32 -18 -32 L 18 -32 C 28 -32 35 -25 35 -15 L 35 5 C 35 15 28 22 18 22 L 5 22 L -5 32 L -5 22 L -18 22 C -28 22 -35 15 -35 5 Z" />
+    
+    <!-- Lock symbol inside chat bubble -->
+    <rect class="accent" x="-8" y="-8" width="16" height="12" rx="2" />
+    <path class="background" d="M -6 -8 L -6 -12 C -6 -16 -3 -18 0 -18 C 3 -18 6 -16 6 -12 L 6 -8" fill="none" stroke="white" stroke-width="2"/>
+    <circle class="background" cx="0" cy="-2" r="2" />
+  </g>
+</svg>
